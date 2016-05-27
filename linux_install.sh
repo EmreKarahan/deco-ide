@@ -36,6 +36,8 @@ mv Deco _Deco
 touch Deco
 chmod +x Deco
 
+# Manually create the version file
+touch ~/.config/com.decosoftware.Deco/.deco.version
 
 # ==========
 
