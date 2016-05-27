@@ -28,6 +28,7 @@ cp -R * ~/.config/com.decosoftware.Deco/libs
 
 # Shared
 cd ../../shared
+npm install
 
 # Stub out Deco binary
 cd ~/.config/com.decosoftware.Deco/libs/binaries
